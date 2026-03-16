@@ -1,6 +1,0 @@
-index.html
-history-1.html
-history-2.html
-about.html
-instrument.html
-style.css
